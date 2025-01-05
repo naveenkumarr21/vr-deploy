@@ -30,7 +30,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "rollOverOpacity": 0.8,
    "fontColor": "#FFFFFF",
    "backgroundColor": "#404040",
-   "id": "Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+   "id": "Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
    "class": "Menu",
    "selectedBackgroundColor": "#202020",
    "children": [
@@ -600,7 +600,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_353E9F1E_27A7_7BF2_41A4_BB413D7D9F97_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO G04",
   "frames": [
    {
@@ -920,7 +920,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_37ED78F8_27DF_2ABE_41A5_1ECC9B8D75C4_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO INNOVATION HUB",
   "frames": [
    {
@@ -1239,7 +1239,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_37259611_27D1_394E_4185_29297B435B99_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO HOD OFFICE",
   "frames": [
    {
@@ -1616,7 +1616,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_35DE1104_27F1_3B56_41B1_FDA16F5071E1_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO SEMINAR HALL",
   "frames": [
    {
@@ -1877,7 +1877,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_36BA82B3_27F7_3EB2_41B8_AC83D6A47F20_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO SVG SIR CABIN,HOD OFFICE",
   "frames": [
    {
@@ -2092,7 +2092,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3678C3F8_27F1_5EBD_41BE_C6692C1B4B30_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAT TO G10,STAFF ROOMS",
   "frames": [
    {
@@ -2463,7 +2463,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2A5E3B5C_27FB_49EA_41C2_6E6F328D91FC_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "1st Floor",
   "frames": [
    {
@@ -2834,7 +2834,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2901E05B_27EE_D7EE_41C1_F88D64BC4F76_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G01",
   "frames": [
    {
@@ -2990,7 +2990,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BC4F03_27EE_C95D_41B7_F04AA0F4C2B5_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Innovation Hub",
   "frames": [
    {
@@ -3141,7 +3141,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BCE519_27EF_596D_41BF_21E53B6B8EF1_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G03",
   "frames": [
    {
@@ -3293,7 +3293,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B2571E_27EF_3967_41B9_C3461B159A21_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G04",
   "frames": [
    {
@@ -3445,7 +3445,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BD0CE9_27EF_C8AA_41A5_E79A33187A19_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G06",
   "frames": [
    {
@@ -3596,7 +3596,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B7DCC9_27EF_48ED_41A9_874D10E847D9_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G07",
   "frames": [
    {
@@ -3748,7 +3748,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BDC6BE_27EF_38A7_4197_42703C81A9DD_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G09",
   "frames": [
    {
@@ -3899,7 +3899,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B834B7_27EE_F8A6_41A2_D7A19D56B242_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "ITP_G10",
   "frames": [
    {
@@ -4054,7 +4054,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2902754F_27EB_D9E6_41B9_2DEBD673B2F5_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "StageView of Seminar_hall",
   "frames": [
    {
@@ -4309,7 +4309,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2985A949_27E9_49EA_41C1_E3247DC3654B_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "AudienceView of Seminar_hall",
   "frames": [
    {
@@ -4512,7 +4512,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3D4BD751_2C6D_138B_41C5_E2B94C6D1ABA_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "WAY TO G07",
   "frames": [
    {
@@ -4889,7 +4889,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_22549BB3_2D27_7CA7_41BA_0C82928759FF_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Way to CC6",
   "frames": [
    {
@@ -5421,7 +5421,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3D820FB9_2D68_F4A2_4183_C32DCA25E6EF_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Way to CC8",
   "frames": [
    {
@@ -5896,7 +5896,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DB431F8_2D69_6CA2_41C4_5FFF013A539F_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Way to CC5",
   "frames": [
    {
@@ -6370,7 +6370,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DC53593_2D68_D566_41A2_BD7032EE4536_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Way to CC 1 & 2",
   "frames": [
    {
@@ -6900,7 +6900,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3C74261A_2D78_B761_41C1_C81907AC7616_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "CC1",
   "frames": [
    {
@@ -7083,7 +7083,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DA6E0B5_2D79_6CA3_4190_C8B065DE9BA3_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "CC2",
   "frames": [
    {
@@ -7290,7 +7290,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DE1FAF3_2D79_DCA7_41B1_8933AE7D6037_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "CC6",
   "frames": [
    {
@@ -7497,7 +7497,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DF1D5E6_2D79_B4A1_41B6_E91E840FF0E0_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "CC8",
   "frames": [
    {
@@ -7676,7 +7676,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "pitch": 0,
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2068E816_3058_BF3A_41A1_5B30325C8612_t.jpg",
-  "cardboardMenu": "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+  "cardboardMenu": "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
   "label": "Outside of IT PARK",
   "frames": [
    {
@@ -8214,7 +8214,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    }
   ]
  },
- "this.Menu_264F0F82_3519_5E19_41B9_621AAED48484",
+ "this.Menu_22D7FC5F_3539_C228_419C_49F15B732F2B",
  {
   "id": "audio_0DF14580_2DF9_D562_41C5_0B11F5B0D218",
   "class": "PanoramaAudio",
@@ -8341,12 +8341,12 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "playbackBarHeadBorderRadius": 0,
   "playbackBarHeadShadow": true,
-  "toolTipBorderSize": 1,
+  "toolTipFontColor": "#606060",
   "progressBackgroundColorDirection": "vertical",
   "playbackBarHeadOpacity": 1,
   "progressLeft": 10,
   "progressBackgroundOpacity": 1,
-  "toolTipFontColor": "#606060",
+  "toolTipBorderSize": 1,
   "playbackBarProgressOpacity": 1,
   "playbackBarBottom": 10,
   "toolTipPaddingTop": 4,
@@ -8369,6 +8369,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#EEEEEE",
    "#CCCCCC"
   ],
+  "width": "100%",
   "toolTipOpacity": 1,
   "playbackBarProgressBackgroundColorDirection": "vertical",
   "progressBarOpacity": 1,
@@ -8381,11 +8382,11 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "#CCCCCC"
   ],
   "toolTipShadowSpread": 0,
-  "top": 80,
+  "top": 88.75,
   "progressBottom": 1,
   "borderSize": 0,
   "paddingLeft": 0,
-  "bottom": 75,
+  "bottom": "10.35%",
   "playbackBarHeadWidth": 6,
   "toolTipFontFamily": "Arial",
   "playbackBarProgressBorderSize": 0,
@@ -8394,23 +8395,22 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "playbackBarHeadShadowColor": "#000000",
   "toolTipBorderColor": "#767676",
   "playbackBarHeight": 20,
-  "playbackBarHeadBorderSize": 0,
+  "toolTipBackgroundColor": "#F6F6F6",
   "playbackBarRight": 0,
   "toolTipShadowColor": "#333333",
   "playbackBarBackgroundColorDirection": "vertical",
-  "toolTipBackgroundColor": "#F6F6F6",
-  "left": 0,
+  "toolTipFontSize": 12,
+  "toolTipBorderRadius": 3,
   "toolTipShadowHorizontalLength": 0,
   "progressRight": 10,
   "progressBackgroundColorRatios": [
    0,
    1
   ],
-  "toolTipFontSize": 12,
-  "toolTipBorderRadius": 3,
-  "right": 0,
+  "right": -0.05,
   "playbackBarLeft": 0,
   "progressBorderSize": 2,
+  "playbackBarHeadBorderSize": 0,
   "class": "ViewerArea"
  },
  {
@@ -8599,28 +8599,29 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "children": [
      {
       "paddingBottom": 0,
-      "height": 57.2,
+      "height": 74,
       "mode": "push",
-      "width": 344.4,
+      "width": 337.2,
       "transparencyActive": false,
       "maxWidth": 1500,
       "shadow": false,
       "borderRadius": 0,
       "maxHeight": 400,
+      "click": "this.openLink(\"https://www.linkedin.com/in/murali-karthick-8ab38a259/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\", \"_blank\")",
       "top": "0%",
       "cursor": "hand",
       "minHeight": 1,
       "borderSize": 0,
       "paddingLeft": 0,
       "horizontalAlign": "center",
-      "id": "IconButton_27BC8D6A_356F_42E9_41C8_F863182FE5E8",
+      "id": "IconButton_21D5C034_3539_427A_41B5_7A0BB56E637C",
       "backgroundOpacity": 0,
       "paddingTop": 0,
       "minWidth": 1,
       "verticalAlign": "middle",
-      "left": "0%",
+      "left": "5.02%",
       "class": "IconButton",
-      "iconURL": "skin/IconButton_27BC8D6A_356F_42E9_41C8_F863182FE5E8.png",
+      "iconURL": "skin/IconButton_21D5C034_3539_427A_41B5_7A0BB56E637C.png",
       "paddingRight": 0
      }
     ],
@@ -8663,28 +8664,29 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "children": [
      {
       "paddingBottom": 0,
-      "height": 58.8,
+      "right": "4.5%",
+      "height": 70.8,
       "mode": "push",
-      "width": 318.8,
+      "width": 353.2,
       "transparencyActive": false,
       "maxWidth": 1500,
       "shadow": false,
       "borderRadius": 0,
       "maxHeight": 400,
+      "click": "this.openLink(\"https://www.linkedin.com/in/naveenkumar-r-5634882a3/\", \"_blank\")",
       "top": "0%",
       "cursor": "hand",
       "minHeight": 1,
       "borderSize": 0,
       "paddingLeft": 0,
       "horizontalAlign": "center",
-      "id": "IconButton_278F403E_3569_4269_41C4_D265A75A3C5A",
+      "id": "IconButton_212A0A1A_3538_C629_41C5_CAB150580AEE",
       "backgroundOpacity": 0,
       "paddingTop": 0,
       "minWidth": 1,
       "verticalAlign": "middle",
-      "left": "0%",
       "class": "IconButton",
-      "iconURL": "skin/IconButton_278F403E_3569_4269_41C4_D265A75A3C5A.png",
+      "iconURL": "skin/IconButton_212A0A1A_3538_C629_41C5_CAB150580AEE.png",
       "paddingRight": 0
      }
     ],
@@ -8727,28 +8729,29 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "children": [
      {
       "paddingBottom": 0,
-      "height": 56.4,
+      "height": 74,
       "mode": "push",
-      "width": 352.4,
+      "width": 418,
       "transparencyActive": false,
       "maxWidth": 1500,
       "shadow": false,
       "borderRadius": 0,
       "maxHeight": 400,
+      "click": "this.openLink(\"https://www.linkedin.com/in/sukanth-r-24638a259\", \"_blank\")",
       "top": "0%",
       "cursor": "hand",
       "minHeight": 1,
       "borderSize": 0,
       "paddingLeft": 0,
       "horizontalAlign": "center",
-      "id": "IconButton_27E31357_3568_C627_41B5_F56B7CF11E66",
+      "id": "IconButton_21C3BA79_353B_C6EB_41B3_10232D4764C4",
       "backgroundOpacity": 0,
       "paddingTop": 0,
       "minWidth": 1,
       "verticalAlign": "middle",
       "left": "0%",
       "class": "IconButton",
-      "iconURL": "skin/IconButton_27E31357_3568_C627_41B5_F56B7CF11E66.png",
+      "iconURL": "skin/IconButton_21C3BA79_353B_C6EB_41B3_10232D4764C4.png",
       "paddingRight": 0
      }
     ],
@@ -8761,28 +8764,57 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  },
  {
   "paddingBottom": 0,
-  "right": "34.66%",
-  "height": 60.9,
-  "mode": "push",
-  "width": 252.65,
-  "transparencyActive": false,
-  "maxWidth": 790,
+  "right": "32.03%",
+  "height": "10.081%",
+  "gap": 10,
+  "width": "28.556%",
   "shadow": false,
   "borderRadius": 0,
-  "maxHeight": 187,
-  "cursor": "hand",
+  "scrollBarWidth": 10,
   "minHeight": 1,
   "borderSize": 0,
   "paddingLeft": 0,
-  "bottom": "7.63%",
+  "bottom": "7.8%",
   "horizontalAlign": "center",
-  "id": "IconButton_3B27A328_34B9_CE7B_41C4_525FE8F6333B",
+  "id": "Container_260E3605_3528_CE1B_41C2_4949060C086F",
   "backgroundOpacity": 0,
+  "scrollBarColor": "#000000",
   "paddingTop": 0,
   "minWidth": 1,
+  "scrollBarMargin": 2,
+  "scrollBarOpacity": 0.5,
+  "contentOpaque": false,
   "verticalAlign": "middle",
-  "class": "IconButton",
-  "iconURL": "skin/IconButton_3B27A328_34B9_CE7B_41C4_525FE8F6333B.png",
+  "scrollBarVisible": "rollOver",
+  "class": "Container",
+  "overflow": "scroll",
+  "children": [
+   {
+    "paddingBottom": 0,
+    "height": 62,
+    "mode": "push",
+    "width": 336.2,
+    "transparencyActive": false,
+    "maxWidth": 790,
+    "shadow": false,
+    "borderRadius": 0,
+    "maxHeight": 187,
+    "cursor": "hand",
+    "minHeight": 1,
+    "borderSize": 0,
+    "paddingLeft": 0,
+    "horizontalAlign": "center",
+    "id": "IconButton_2698522B_3529_C66F_41B8_3CAF38813DBC",
+    "backgroundOpacity": 0,
+    "paddingTop": 0,
+    "minWidth": 1,
+    "verticalAlign": "middle",
+    "class": "IconButton",
+    "iconURL": "skin/IconButton_2698522B_3529_C66F_41B8_3CAF38813DBC.png",
+    "paddingRight": 0
+   }
+  ],
+  "layout": "horizontal",
   "paddingRight": 0
  }
 ], 
