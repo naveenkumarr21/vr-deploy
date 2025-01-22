@@ -406,7 +406,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "fontColor": "#FFFFFF",
    "opacity": 0.4,
    "rollOverOpacity": 0.8,
-   "id": "Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE",
+   "id": "Menu_804C240F_8C8A_3738_41E1_855612C0A81A",
    "rollOverFontColor": "#FFFFFF",
    "children": [
     {
@@ -565,25 +565,25 @@ TDV.PlayerAPI.defineScript({ "definitions": [
    "backgroundOpacity": 0,
    "horizontalAlign": "center",
    "verticalAlign": "middle",
-   "width": 42,
+   "width": 70,
    "mode": "push",
    "borderSize": 0,
-   "height": 42,
+   "height": 70,
    "class": "IconButton",
    "shadow": false,
-   "maxWidth": 42,
-   "maxHeight": 42,
-   "iconURL": "skin/IconButton_872E9CBF_8C4D_FEEC_41D9_A5CBAE5504B6.png",
+   "maxWidth": 70,
+   "maxHeight": 70,
+   "iconURL": "skin/IconButton_800D13DF_8C8E_30D8_41D4_9E9B16707BA6.png",
    "borderRadius": 0,
    "cursor": "hand",
    "paddingLeft": 0,
-   "bottom": "9.94%",
-   "id": "IconButton_872E9CBF_8C4D_FEEC_41D9_A5CBAE5504B6",
+   "bottom": "4.38%",
+   "id": "IconButton_800D13DF_8C8E_30D8_41D4_9E9B16707BA6",
    "paddingTop": 0,
    "transparencyActive": false,
    "minHeight": 1,
    "minWidth": 1,
-   "left": "20.96%",
+   "left": "1.73%",
    "paddingBottom": 0,
    "paddingRight": 0
   },
@@ -993,7 +993,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "label": "WAY TO G04",
   "vfov": 180,
   "thumbnailUrl": "media/panorama_353E9F1E_27A7_7BF2_41A4_BB413D7D9F97_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -1416,7 +1416,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_37ED78F8_27DF_2ABE_41A5_1ECC9B8D75C4_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -2052,7 +2052,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_37259611_27D1_394E_4185_29297B435B99_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -2313,7 +2313,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_35DE1104_27F1_3B56_41B1_FDA16F5071E1_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -2630,7 +2630,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_36BA82B3_27F7_3EB2_41B8_AC83D6A47F20_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -3205,7 +3205,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3678C3F8_27F1_5EBD_41BE_C6692C1B4B30_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -3576,7 +3576,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2A5E3B5C_27FB_49EA_41C2_6E6F328D91FC_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -3727,7 +3727,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "label": "ITP_G01",
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2901E05B_27EE_D7EE_41C1_F88D64BC4F76_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -3883,7 +3883,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BC4F03_27EE_C95D_41B7_F04AA0F4C2B5_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4034,7 +4034,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "label": "ITP_G03",
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BCE519_27EF_596D_41BF_21E53B6B8EF1_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4186,7 +4186,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "label": "ITP_G04",
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B2571E_27EF_3967_41B9_C3461B159A21_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4338,7 +4338,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BD0CE9_27EF_C8AA_41A5_E79A33187A19_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4489,7 +4489,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "label": "ITP_G07",
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B7DCC9_27EF_48ED_41A9_874D10E847D9_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4641,7 +4641,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29BDC6BE_27EF_38A7_4197_42703C81A9DD_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -4792,7 +4792,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_29B834B7_27EE_F8A6_41A2_D7A19D56B242_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -5051,7 +5051,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2902754F_27EB_D9E6_41B9_2DEBD673B2F5_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -5254,7 +5254,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2985A949_27E9_49EA_41C1_E3247DC3654B_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -5784,7 +5784,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3D4BD751_2C6D_138B_41C5_E2B94C6D1ABA_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -6367,7 +6367,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_22549BB3_2D27_7CA7_41BA_0C82928759FF_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -6893,7 +6893,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3D820FB9_2D68_F4A2_4183_C32DCA25E6EF_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -7367,7 +7367,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DB431F8_2D69_6CA2_41C4_5FFF013A539F_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -7893,7 +7893,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DC53593_2D68_D566_41A2_BD7032EE4536_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -8100,7 +8100,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3C74261A_2D78_B761_41C1_C81907AC7616_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -8283,7 +8283,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DA6E0B5_2D79_6CA3_4190_C8B065DE9BA3_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -8490,7 +8490,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DE1FAF3_2D79_DCA7_41B1_8933AE7D6037_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -8697,7 +8697,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_3DF1D5E6_2D79_B4A1_41B6_E91E840FF0E0_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -8824,7 +8824,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   ],
   "vfov": 180,
   "thumbnailUrl": "media/panorama_2068E816_3058_BF3A_41A1_5B30325C8612_t.jpg",
-  "cardboardMenu": "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE"
+  "cardboardMenu": "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A"
  },
  {
   "initialPosition": {
@@ -9282,10 +9282,10 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  },
  {
   "class": "PlayList",
-  "id": "playList_803FBBA2_8C99_D168_41CE_B27F7D6A5661",
+  "id": "playList_806A13EF_8C8A_30F8_41CA_BECCE1308B50",
   "items": [
    {
-    "begin": "this.fixTogglePlayPauseButton(this.viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1VideoPlayer)",
+    "begin": "this.fixTogglePlayPauseButton(this.viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1VideoPlayer)",
     "media": "this.video_8AF9971D_8488_F97E_41C6_6A2ABC9D11E7",
     "player": {
      "displayPlaybackBar": true,
@@ -9386,7 +9386,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
       "playbackBarProgressBorderColor": "#000000",
       "playbackBarHeadShadowVerticalLength": 0,
       "toolTipFontStyle": "normal",
-      "id": "viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1",
+      "id": "viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1",
       "paddingTop": 0,
       "toolTipPaddingLeft": 6,
       "toolTipShadowOpacity": 1,
@@ -9408,14 +9408,14 @@ TDV.PlayerAPI.defineScript({ "definitions": [
       "playbackBarBottom": 0
      },
      "class": "VideoPlayer",
-     "id": "viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1VideoPlayer"
+     "id": "viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1VideoPlayer"
     },
     "class": "VideoPlayListItem",
-    "start": "this.viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1VideoPlayer.set('displayPlaybackBar', true); this.changeBackgroundWhilePlay(this.playList_803FBBA2_8C99_D168_41CE_B27F7D6A5661, 0, '#000000'); this.pauseGlobalAudiosWhilePlayItem(this.playList_803FBBA2_8C99_D168_41CE_B27F7D6A5661, 0, this.video_8AF9971D_8488_F97E_41C6_6A2ABC9D11E7)"
+    "start": "this.viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1VideoPlayer.set('displayPlaybackBar', true); this.changeBackgroundWhilePlay(this.playList_806A13EF_8C8A_30F8_41CA_BECCE1308B50, 0, '#000000'); this.pauseGlobalAudiosWhilePlayItem(this.playList_806A13EF_8C8A_30F8_41CA_BECCE1308B50, 0, this.video_8AF9971D_8488_F97E_41C6_6A2ABC9D11E7)"
    }
   ]
  },
- "this.Menu_807EFBD0_8C99_D128_41D7_FB8E0E77BDAE",
+ "this.Menu_804C240F_8C8A_3738_41E1_855612C0A81A",
  {
   "paddingBottom": 0,
   "backgroundOpacity": 1,
@@ -9512,14 +9512,14 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarOpacity": 0.5,
     "paddingLeft": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p></div>",
-    "id": "htmlText_uid8020EB9B_8C99_D158_41E0_135A7499F47E",
+    "id": "htmlText_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5",
     "paddingTop": 10,
     "minHeight": 0,
     "minWidth": 0,
     "paddingBottom": 10,
     "paddingRight": 10
    },
-   "this.viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1"
+   "this.viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1"
   ],
   "shadowOpacity": 0.5,
   "shadowVerticalLength": 0,
@@ -9550,7 +9550,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
   "closeButtonBackgroundColor": [],
   "overflow": "scroll",
   "closeButtonBorderRadius": 11,
-  "close": "this.playList_803FBBA2_8C99_D168_41CE_B27F7D6A5661.set('selectedIndex', -1);",
+  "close": "this.playList_806A13EF_8C8A_30F8_41CA_BECCE1308B50.set('selectedIndex', -1);",
   "veilOpacity": 0.4,
   "closeButtonBackgroundColorRatios": [],
   "paddingTop": 0,
@@ -9683,7 +9683,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "scrollBarOpacity": 0.5,
     "paddingLeft": 10,
     "html": "<div style=\"text-align:left; color:#000; \"><p STYLE=\"margin:0; line-height:12px;\"><BR STYLE=\"letter-spacing:0px;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;\"/></p></div>",
-    "id": "htmlText_uid803F2BA2_8C99_D168_4177_2A4C719F6F33",
+    "id": "htmlText_uid8069F3EF_8C8A_30F8_41B5_1805F3A1FA76",
     "paddingTop": 10,
     "minHeight": 0,
     "minWidth": 0,
@@ -9699,7 +9699,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "verticalAlign": "middle",
     "borderSize": 0,
     "width": "100%",
-    "id": "image_uid803F2BA2_8C99_D168_4177_2A4C719F6F33_1",
+    "id": "image_uid8069F3EF_8C8A_30F8_41B5_1805F3A1FA76_1",
     "minHeight": 0,
     "paddingTop": 0,
     "class": "Image",
@@ -10536,7 +10536,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "maxHeight": 512,
     "scaleMode": "fit_inside",
     "url": "skin/Image_8A916126_8493_5E91_41D3_9956BEDA3B5E.png",
-    "click": "this.showWindow(this.window_8B9DA3E0_8497_4190_41DC_8E1C7FEA14BB, null, true); this.playList_803FBBA2_8C99_D168_41CE_B27F7D6A5661.set('selectedIndex', 0); ; this.viewer_uid8020EB9B_8C99_D158_41E0_135A7499F47E_1VideoPlayer.play(); ",
+    "click": "this.showWindow(this.window_8B9DA3E0_8497_4190_41DC_8E1C7FEA14BB, null, true); this.playList_806A13EF_8C8A_30F8_41CA_BECCE1308B50.set('selectedIndex', 0); ; this.viewer_uid806EB3EC_8C8A_30F8_41B1_7250018AD8E5_1VideoPlayer.play(); ",
     "borderRadius": 0,
     "top": "38.8%",
     "paddingLeft": 0,
@@ -10573,7 +10573,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
     "paddingBottom": 0,
     "paddingRight": 0
    },
-   "this.IconButton_872E9CBF_8C4D_FEEC_41D9_A5CBAE5504B6"
+   "this.IconButton_800D13DF_8C8E_30D8_41D4_9E9B16707BA6"
   ],
   "borderSize": 0,
   "width": "6.122%",
@@ -10682,7 +10682,7 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  },
  "minWidth": 20,
  "vrPolyfillScale": 0.5,
- "start": "this.syncPlaylists([this.thumbnaillist5245_playlist,this.mainPlayList]); this.mainPlayList.set('selectedIndex', 0)",
+ "start": "this.visibleComponentsIfPlayerFlagEnabled([this.IconButton_800D13DF_8C8E_30D8_41D4_9E9B16707BA6], 'cardboardAvailable'); this.syncPlaylists([this.thumbnaillist5245_playlist,this.mainPlayList]); this.mainPlayList.set('selectedIndex', 0)",
  "paddingBottom": 0,
  "paddingRight": 0
 })
